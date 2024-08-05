@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Paneer Ghar</string>
+    <string name="matar_paneer">matar Paneer</string>
+    <string name="paneer_tikka">paneer Tikka</string>
+    <string name="paneer_labbabdar">Paneer Lababdaar</string>
+    <string name="cottage_paneer">Cottage Paneer</string>
+    <string name="tofu_paneer_palak">Tofu Paneer Palak</string>
+    <string name="paneer_sixty">Paneer 60</string>
+    <string name="paneer_curry">Paneer Cury</string>
+    <string name="Kaju_paneer">Kaju Paneer</string>
+    <string name="Grilled_paneer">Grilled Paneer</string>
+    <string name="welcome_text">WELCOME TO PANEER GHAR</string>
+
+</resources>
